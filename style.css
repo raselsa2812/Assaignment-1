@@ -1,0 +1,17 @@
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orangered;
+    
+}
+h2{
+    font-size: 30px;
+    
+}
+.border-image{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, rgb(251, 255, 0));
+    border-image-slice: 1;
+    margin-left: 20px;
+}
